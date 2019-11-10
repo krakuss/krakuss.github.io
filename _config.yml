@@ -1,2 +1,3 @@
 	name: Krakus Official Website
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
